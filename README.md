@@ -9,5 +9,5 @@ The use of jQuery and Bootstrap takes us to a whole new level of using various t
 The link to my live page is:https://hanjarim.github.io/week-three-js-moringa/index.html
 
 Contact Information: 0714 99 99 79 Email:hanjarim@gmail.com
-This work has copyright law backing it and should not be copied without the knowledge and consent of the owner. Infringement or misuse will lead to revocation of access rights
-Copyright (c) 2022 Moses Kuboz
+This work has copyright law backing it and should not be copied without the knowledge and consent of the owner. Infringement or misuse will lead to revocation of access rights.
+Copyright (c) 2022 Moses Kubo
