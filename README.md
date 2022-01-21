@@ -1,7 +1,7 @@
 This is my third assignment project and by far the most complicated that I have encountered.
 **This document is authored by MOSES HANJARI.
 A brief description of the project.
-In this project the student is meant to develop a landing page to a fictional studio. With the help of shared assets the student is put through the paces of developing a responsive site that is both informational and visually appealing..
+In this project the student is meant to develop a landing page to a fictional studio. With the help of shared assets the student is put through the paces of developing a responsive site that is both informational and visually appealing.
 
 The use of jQuery and Bootstrap takes us to a whole new level of using various tools as one navigates the initially complex world of coding. Some icons will toggle when clicked and a hover effect is exhibited in the portfolio section. The site is responsive and a user will be able to get a responsive when they fill in their name and email.MAil chimp API is used to track all emails and messages from  users who use the site.
 
